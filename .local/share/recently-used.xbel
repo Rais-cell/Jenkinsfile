@@ -2,4 +2,398 @@
 <xbel version="1.0"
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
-></xbel>
+>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2012-34-27.png" added="2024-12-15T11:34:27.156934Z" modified="2024-12-15T11:34:27.156937Z" visited="2024-12-15T11:34:27.156935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T11:34:27.156935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2015-56-03.png" added="2024-12-15T14:56:03.030743Z" modified="2024-12-15T14:56:03.030748Z" visited="2024-12-15T14:56:03.030744Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T14:56:03.030745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2015-57-34.png" added="2024-12-15T14:57:34.005182Z" modified="2024-12-15T14:57:34.005186Z" visited="2024-12-15T14:57:34.005183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T14:57:34.005183Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2015-59-08.png" added="2024-12-15T14:59:08.542877Z" modified="2024-12-15T14:59:08.542881Z" visited="2024-12-15T14:59:08.542878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T14:59:08.542878Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2016-01-42.png" added="2024-12-15T15:01:42.468203Z" modified="2024-12-15T15:01:42.468207Z" visited="2024-12-15T15:01:42.468204Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T15:01:42.468204Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2016-04-06.png" added="2024-12-15T15:04:06.101417Z" modified="2024-12-15T15:04:06.101421Z" visited="2024-12-15T15:04:06.101419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T15:04:06.101419Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2016-06-04.png" added="2024-12-15T15:06:04.515926Z" modified="2024-12-15T15:06:04.515930Z" visited="2024-12-15T15:06:04.515927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T15:06:04.515928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2016-08-36.png" added="2024-12-15T15:08:36.422790Z" modified="2024-12-15T15:08:36.422794Z" visited="2024-12-15T15:08:36.422791Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T15:08:36.422792Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2016-12-40.png" added="2024-12-15T15:12:40.514938Z" modified="2024-12-15T15:12:40.514941Z" visited="2024-12-15T15:12:40.514938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T15:12:40.514939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-31-40.png" added="2024-12-15T17:31:40.732973Z" modified="2024-12-15T17:31:40.733044Z" visited="2024-12-15T17:31:40.732975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:31:40.732975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-31-49.png" added="2024-12-15T17:31:49.738259Z" modified="2024-12-15T17:31:49.738263Z" visited="2024-12-15T17:31:49.738260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:31:49.738261Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-49-01.png" added="2024-12-15T17:49:01.551563Z" modified="2024-12-15T17:49:01.551570Z" visited="2024-12-15T17:49:01.551565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:49:01.551565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-50-43.png" added="2024-12-15T17:50:43.655194Z" modified="2024-12-15T17:50:43.655197Z" visited="2024-12-15T17:50:43.655195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:50:43.655195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-52-17.png" added="2024-12-15T17:52:17.035818Z" modified="2024-12-15T17:52:17.035822Z" visited="2024-12-15T17:52:17.035819Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:52:17.035820Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-52-27.png" added="2024-12-15T17:52:27.345612Z" modified="2024-12-15T17:52:27.345617Z" visited="2024-12-15T17:52:27.345614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:52:27.345614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-54-10.png" added="2024-12-15T17:54:10.627795Z" modified="2024-12-15T17:54:10.627801Z" visited="2024-12-15T17:54:10.627797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:54:10.627798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2018-55-46.png" added="2024-12-15T17:55:46.773578Z" modified="2024-12-15T17:55:46.773583Z" visited="2024-12-15T17:55:46.773580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T17:55:46.773581Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-00-24.png" added="2024-12-15T18:00:24.203762Z" modified="2024-12-15T18:00:24.203766Z" visited="2024-12-15T18:00:24.203763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:00:24.203763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-02-18.png" added="2024-12-15T18:02:18.764830Z" modified="2024-12-15T18:02:18.764833Z" visited="2024-12-15T18:02:18.764831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:02:18.764831Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-04-46.png" added="2024-12-15T18:04:46.074174Z" modified="2024-12-15T18:04:46.074181Z" visited="2024-12-15T18:04:46.074175Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:04:46.074179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-05-40.png" added="2024-12-15T18:05:40.833223Z" modified="2024-12-15T18:05:40.833226Z" visited="2024-12-15T18:05:40.833224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:05:40.833225Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-06-25.png" added="2024-12-15T18:06:25.393113Z" modified="2024-12-15T18:06:25.393116Z" visited="2024-12-15T18:06:25.393114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:06:25.393114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-08-48.png" added="2024-12-15T18:08:48.680190Z" modified="2024-12-15T18:08:48.680194Z" visited="2024-12-15T18:08:48.680192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:08:48.680192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-11-26.png" added="2024-12-15T18:11:26.784253Z" modified="2024-12-15T18:11:26.784257Z" visited="2024-12-15T18:11:26.784254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:11:26.784254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-14-58.png" added="2024-12-15T18:14:58.980402Z" modified="2024-12-15T18:14:58.980411Z" visited="2024-12-15T18:14:58.980403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:14:58.980403Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-16-30.png" added="2024-12-15T18:16:30.893987Z" modified="2024-12-15T18:16:30.893990Z" visited="2024-12-15T18:16:30.893988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:16:30.893988Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-19-07.png" added="2024-12-15T18:19:07.729010Z" modified="2024-12-15T18:19:10.408772Z" visited="2024-12-15T18:19:07.729011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:19:07.729011Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-12-15T18:19:10.408769Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-20-23.png" added="2024-12-15T18:20:23.825383Z" modified="2024-12-15T18:20:23.825387Z" visited="2024-12-15T18:20:23.825384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:20:23.825385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-23-06.png" added="2024-12-15T18:23:06.387000Z" modified="2024-12-15T18:23:06.387004Z" visited="2024-12-15T18:23:06.387001Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:23:06.387001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-26-12.png" added="2024-12-15T18:26:12.972573Z" modified="2024-12-15T18:26:14.957766Z" visited="2024-12-15T18:26:12.972574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:26:12.972574Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-12-15T18:26:14.957764Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-28-41.png" added="2024-12-15T18:28:41.811763Z" modified="2024-12-15T18:28:41.811767Z" visited="2024-12-15T18:28:41.811764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:28:41.811765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-29-28.png" added="2024-12-15T18:29:28.920423Z" modified="2024-12-15T18:29:30.444476Z" visited="2024-12-15T18:29:28.920427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:29:28.920427Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-12-15T18:29:30.444474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-33-04.png" added="2024-12-15T18:33:04.679629Z" modified="2024-12-15T18:33:04.679632Z" visited="2024-12-15T18:33:04.679630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:33:04.679630Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-34-25.png" added="2024-12-15T18:34:25.143392Z" modified="2024-12-15T18:34:25.143394Z" visited="2024-12-15T18:34:25.143393Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:34:25.143393Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-37-32.png" added="2024-12-15T18:37:32.919144Z" modified="2024-12-15T18:37:32.919148Z" visited="2024-12-15T18:37:32.919145Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:37:32.919145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-44-59.png" added="2024-12-15T18:44:59.678203Z" modified="2024-12-15T18:44:59.678208Z" visited="2024-12-15T18:44:59.678204Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:44:59.678205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-46-11.png" added="2024-12-15T18:46:11.921093Z" modified="2024-12-15T18:46:11.921096Z" visited="2024-12-15T18:46:11.921094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:46:11.921094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-47-54.png" added="2024-12-15T18:47:54.332394Z" modified="2024-12-15T18:47:54.332397Z" visited="2024-12-15T18:47:54.332395Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:47:54.332395Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-48-53.png" added="2024-12-15T18:48:53.526385Z" modified="2024-12-15T18:48:53.526389Z" visited="2024-12-15T18:48:53.526386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:48:53.526386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-52-10.png" added="2024-12-15T18:52:10.933070Z" modified="2024-12-15T18:52:10.933072Z" visited="2024-12-15T18:52:10.933071Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:52:10.933071Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-54-06.png" added="2024-12-15T18:54:06.590518Z" modified="2024-12-15T18:54:06.590521Z" visited="2024-12-15T18:54:06.590519Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:54:06.590519Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eya/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-15%2019-54-15.png" added="2024-12-15T18:54:15.225984Z" modified="2024-12-15T18:54:15.225988Z" visited="2024-12-15T18:54:15.225985Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-12-15T18:54:15.225985Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

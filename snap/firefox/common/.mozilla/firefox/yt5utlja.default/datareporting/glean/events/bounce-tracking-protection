@@ -1,0 +1,3 @@
+{"timestamp":14940031,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","success":"true","site_host":"google.tn","bounce_time":"1734217734","glean_timestamp":"1734264522987"}}
+{"timestamp":15726256,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2024-12-15T13:21+01:00","glean_timestamp":"1734265309212"},"execution_counter":1}
+{"timestamp":28117854,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2024-12-15T16:51+01:00","glean_timestamp":"1734277869909"},"execution_counter":2}
