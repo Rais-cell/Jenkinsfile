@@ -1,0 +1,13 @@
+9
+^partitionKey=%28https%2Cdocker.com%29
+https://www.googletagmanager.com/static/service_worker
+https://www.googletagmanager.com/static/service_worker/4bj0/sw.js?origin=https%3A%2F%2Fdocs.docker.com
+false
+{41ac8480-7dc2-4312-8b10-1ec67bc0b0c2}
+1
+1732281699374578
+1732281699426378
+1732281698763266
+0
+true
+#
